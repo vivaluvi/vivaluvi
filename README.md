@@ -1,6 +1,1 @@
-<div align="center"> 
-
-![xoxo deuteragonistillusion](https://komarev.com/ghpvc/?username=your-shallbepurged) 
-</div>
-
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eeee&label=lukewarm%20individuals&color=df1111&style=flat" alt="eeee" /> </p>
